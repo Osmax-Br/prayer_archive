@@ -18,5 +18,11 @@ the .exe file is in dist folder
 
 the merge.py file is used when you need to merge 2 sql databases
 merge.py is not written by me 
+
+
 original repo https://github.com/kd8bny/sqlMerge 
+
+
+I also added prayers.db which is the file that contains prayer times 
+
 osama breman 2022
