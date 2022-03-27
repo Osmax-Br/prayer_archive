@@ -1,6 +1,6 @@
 # prayer archive
 the application is designed to help entering prayers time into a database to use these data in Calanders
-the program is wrote using python 
+the program is wrote using python <br>
 the gui is writtern using Tkinter + guizero
 SQLite is used as a database
 and I also used Tksheet as excel view option
